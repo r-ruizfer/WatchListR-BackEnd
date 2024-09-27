@@ -1,0 +1,48 @@
+{
+  "series": [
+    {
+      "id": 1234,
+      "name": "Breaking Bad",
+      "streamingService": "Netflix",
+      "origin": "USA",
+      "listId": "qwert",
+      "rating": 7,
+      "fav": true
+    },
+    {
+      "id": 2345,
+      "name": "Squid Game",
+      "streamingService": "Netflix",
+      "origin": "Korea",
+      "listId": "asdfg",
+      "rating": 7,
+      "fav": true
+    },
+    {
+      "name": "Game of Thrones",
+      "streamingService": "HBO",
+      "origin": "USA",
+      "listId": "asdfg",
+      "id": 3457,
+      "fav": false
+    }
+  ],
+  "lists": [
+    {
+      "id": "qwert",
+      "name": "Want to Watch"
+    },
+    {
+      "id": "asdfg",
+      "name": "Watching"
+    },
+    {
+      "id": "zxcvb",
+      "name": "Watched"
+    },
+    {
+      "id": "poiuy",
+      "name": "Favs"
+    }
+  ]
+}
