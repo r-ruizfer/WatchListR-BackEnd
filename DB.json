@@ -1,5 +1,105 @@
 {
   "personalWatchlist": [
-    
+    {
+      "name": "Arcane",
+      "poster_path": "https://image.tmdb.org/t/p/w500//fqldf2t8ztc9aiwn3k6mlX3tvRT.jpg",
+      "id": 94605,
+      "genres": [
+        {
+          "id": 16,
+          "name": "Animation"
+        },
+        {
+          "id": 10765,
+          "name": "Sci-Fi & Fantasy"
+        },
+        {
+          "id": 10759,
+          "name": "Action & Adventure"
+        },
+        {
+          "id": 9648,
+          "name": "Mystery"
+        }
+      ],
+      "rating": "2",
+      "personalWatchlist": "watching"
+    },
+    {
+      "name": "Rick and Morty",
+      "poster_path": "https://image.tmdb.org/t/p/w500//gdIrmf2DdY5mgN6ycVP0XlzKzbE.jpg",
+      "id": 60625,
+      "genres": [
+        {
+          "id": 16,
+          "name": "Animation"
+        },
+        {
+          "id": 35,
+          "name": "Comedy"
+        },
+        {
+          "id": 10765,
+          "name": "Sci-Fi & Fantasy"
+        },
+        {
+          "id": 10759,
+          "name": "Action & Adventure"
+        }
+      ],
+      "rating": "3",
+      "personalWatchlist": "watching"
+    },
+    {
+      "name": "Chernobyl",
+      "poster_path": "https://image.tmdb.org/t/p/w500//hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg",
+      "id": 87108,
+      "genres": [
+        {
+          "id": 18,
+          "name": "Drama"
+        }
+      ],
+      "rating": "2",
+      "personalWatchlist": "watching"
+    },
+    {
+      "name": "Breaking Bad",
+      "poster_path": "https://image.tmdb.org/t/p/w500//ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg",
+      "id": 1396,
+      "genres": [
+        {
+          "id": 18,
+          "name": "Drama"
+        },
+        {
+          "id": 80,
+          "name": "Crime"
+        }
+      ],
+      "rating": "2",
+      "personalWatchlist": "wantToWatch"
+    },
+    {
+      "name": "Frieren: Beyond Journey's End",
+      "poster_path": "https://image.tmdb.org/t/p/w500//dqZENchTd7lp5zht7BdlqM7RBhD.jpg",
+      "id": 209867,
+      "genres": [
+        {
+          "id": 16,
+          "name": "Animation"
+        },
+        {
+          "id": 10759,
+          "name": "Action & Adventure"
+        },
+        {
+          "id": 10765,
+          "name": "Sci-Fi & Fantasy"
+        }
+      ],
+      "rating": "1",
+      "personalWatchlist": "watching"
+    }
   ]
 }
