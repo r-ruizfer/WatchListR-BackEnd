@@ -1,0 +1,42 @@
+{
+  "personalWatchlist": [
+    {
+      "name": "Breaking Bad",
+      "poster_path": "https://image.tmdb.org/t/p/w500//ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg",
+      "id": 1396,
+      "genres": [
+        {
+          "id": 18,
+          "name": "Drama"
+        },
+        {
+          "id": 80,
+          "name": "Crime"
+        }
+      ],
+      "rating": "4",
+      "personalWatchlist": "watched"
+    },
+    {
+      "name": "Frieren: Beyond Journey's End",
+      "poster_path": "https://image.tmdb.org/t/p/w500//dqZENchTd7lp5zht7BdlqM7RBhD.jpg",
+      "id": 209867,
+      "genres": [
+        {
+          "id": 16,
+          "name": "Animation"
+        },
+        {
+          "id": 10759,
+          "name": "Action & Adventure"
+        },
+        {
+          "id": 10765,
+          "name": "Sci-Fi & Fantasy"
+        }
+      ],
+      "rating": "",
+      "personalWatchlist": "wantToWatch"
+    }
+  ]
+}
